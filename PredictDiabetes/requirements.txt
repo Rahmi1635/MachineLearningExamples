@@ -1,0 +1,7 @@
+Kullanılan Kütüphaneler
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+- joblib
