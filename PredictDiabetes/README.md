@@ -1,4 +1,6 @@
 🩺 Diabetes Prediction with KNN & Machine Learning
+
+
 Bu proje, Pima Indians Diabetes veri seti kullanılarak, bir kişinin sağlık parametrelerine göre diyabet riskini tahmin eden uçtan uca bir makine öğrenmesi uygulamasıdır. Projede K-Nearest Neighbors (KNN) algoritması kullanılmış ve tıbbi hassasiyetler göz önünde bulundurularak optimize edilmiştir.
 
 🚀 Proje Özellikleri
